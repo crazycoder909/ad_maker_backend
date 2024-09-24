@@ -1,0 +1,4 @@
+username = "tonyjackson021006@gmail.com"
+password = "123qweqwe"
+dailyBudget = "100"
+bid_Rate = "100"
