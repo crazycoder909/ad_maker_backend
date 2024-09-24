@@ -3,3 +3,4 @@ webdriver_manager==4.0.1
 pywinauto
 django-cors-headers
 djangorestframework
+psycopg2
